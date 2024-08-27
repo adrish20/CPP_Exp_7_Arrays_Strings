@@ -1,1 +1,2 @@
-# CPP_Exp_7_Arrays_Strings
+<h1>Aim of the experiment</h1>
+<p></p>
